@@ -1,0 +1,7 @@
+insulator
+crossarm
+conductor
+pole
+cutouts
+transformers
+other_wire

@@ -1,0 +1,17 @@
+
+path: ../fiftyone_Yolo_Dataset # dataset root dir
+train: images/train
+val: images/val
+
+
+# Classes
+
+names:
+  0: insulator
+  1: crossarm
+  2: conductor
+  3: pole
+  4: cutouts
+  5: transformers
+  6: other_wire
+
